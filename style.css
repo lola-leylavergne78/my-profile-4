@@ -1,0 +1,54 @@
+body{
+  background-color: black;
+  color: white;
+}
+h1{
+  color: #5DA7DB;
+  font-family: Helvetica;
+  letter-spacing: 10px;
+}
+h1,h2,h3 {
+  font-family: 'DM Sans', sans-serif;
+  
+}
+h1{
+  color: #5DA7DB;
+  font-size: 32px;
+  font-weight: 900;
+}
+h2{
+  color: #6C4AB6;
+  font size: 24px;
+  font-weight: 300;
+}
+a{
+  text-decoration: none;
+  color: #9F73AB;
+  font-weight: bold;
+}
+a:hover{
+  color: darkblue;
+}
+
+.cardwhite {
+  background: black;
+  padding: 40px;
+  box box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4 px;
+  margin: 20px 0px;
+  text-align: 4px;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+
+.btn-blue{
+  background-color: #5DA7DB;
+  color: #3F0071;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+
+
